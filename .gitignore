@@ -1,0 +1,6 @@
+venv/ 
+"classification model/" 
+__pycache__/ 
+*.pyc 
+*.pyd 
+*.dll 
